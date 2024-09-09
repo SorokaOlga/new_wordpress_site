@@ -1,0 +1,25 @@
+2024-09-06T13:55:01+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_66db09b503ffehttpwordpresswp-admin","smb_name":"PROD","redirect_url":"http:\/\/wordpress\/wp-admin\/"}
+ ajax: no
+2024-09-06T13:55:01+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 38
+X-Tt-Logid: 20240906135501982536517DF9A46EE08E,20240906135501982536517DF9A46EE08E
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Server-Timing: inner; dur=33
+x-tt-trace-host: 011becbd138d5ccf49f9576b135abb1069a75cb282649bb53d1a76d77f912f04a7220bea1c95e5d67e18b92566bdbeee51937145c980d844c943b154a4e85b3694ecea915f8df58de5ed1841ba8b307222a691f208a031589d0252f071d9e1e0b0
+x-tt-trace-id: 00-240906135501982536517DF9A46EE08E-1E90F7903ECA6D18-00
+Server: TLB
+Date: Fri, 06 Sep 2024 13:55:02 GMT
+X-Cache: TCP_MISS from a104-94-100-60.deploy.akamaitechnologies.com (AkamaiGHost/11.6.2.1-58447958) (-)
+Connection: close
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=10, origin; dur=224
+X-Origin-Response-Time: 224,104.94.100.60
+X-Akamai-Request-ID: 17190fcd
+
+{"code":40000,"msg":"Parameter error"}
+

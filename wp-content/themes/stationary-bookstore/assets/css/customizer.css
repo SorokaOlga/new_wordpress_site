@@ -1,0 +1,10 @@
+.control-section-author-writer h3.accordion-section-title {
+  color: #eb6237 !important;
+	border: 2px solid #eb6237 !important;
+	border-left: none !important;
+	border-right: none !important;
+}
+a.button.button-secondary.alignright{
+    background: #151515;
+    color: #fff;
+}
